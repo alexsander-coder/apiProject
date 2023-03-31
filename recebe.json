@@ -1,0 +1,25 @@
+{
+  "dados": [
+    {
+      "cost": 1,
+      "name": "COMBO00 - TESTE",
+      "start": 1669852800000,
+      "end": 1704067200000,
+      "cid": "b4e48bde-a824-419a-a73c-eafc18ba3a41"
+    },
+    {
+      "cost": 2,
+      "name": "COMBO00 - TWO",
+      "start": 1669852800000,
+      "end": 1704067200000,
+      "cid": "b4e48bde-a824-419a-a73c-eafc18ba3a41"
+    },
+    {
+      "cost": 3,
+      "name": "FLOWS",
+      "start": 1669852800000,
+      "end": 1704067200000,
+      "cid": "DDCC4-a824-419a-a73c-eafc18ba3a41"
+    }
+  ]
+}

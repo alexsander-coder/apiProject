@@ -1,0 +1,11 @@
+node_modules
+.env
+typeorm
+views
+.vscode
+views
+solid
+recebe
+test
+helmetHeaders
+view
