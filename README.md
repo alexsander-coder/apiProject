@@ -1,13 +1,13 @@
-### Club De Vantagens 
+# Club De Vantagens 
 
-### Pré-requisitos
+## Pré-requisitos
 - Node.js
 - Express
 - TypeORM
 - TypeScript
 - Oracle Instant Client
 
-### Instalação
+## Instalação
 
 Navegue até o diretório do projeto:
 
