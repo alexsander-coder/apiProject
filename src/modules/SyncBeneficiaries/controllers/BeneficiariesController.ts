@@ -19,7 +19,7 @@ export class BeneficiariesController {
 
     const getAll: IRequest[] = await Beneficio.find()
 
-    //https://api.onze.vip/app/api/client/update/list
+
     await fetch('http://localhost:3000/dados', {
       method: 'POST',
       headers: { 'Content-Type': 'application/json' },
